@@ -112,8 +112,10 @@ transition: all 0.2s ease-in-out;
     /* width: 500px; */
     margin-left: auto;
     margin-right: auto;
-    border: 4px solid #fff;
+    /* border: 4px solid #fff; */
+    padding: auto;
     overflow: hidden;
+    height: 43pc;
   }
   
   .slider {
@@ -129,7 +131,7 @@ transition: all 0.2s ease-in-out;
     text-align: center;
     line-height: 300px;
   }
-  
+/*   
   .slider__element--lightcoral {
     background-color: lightcoral;
   }
@@ -145,7 +147,7 @@ transition: all 0.2s ease-in-out;
   .slider__element--lightsalmon {
     background-color: lightsalmon;
   }
-  
+   */
   .slider-buttons {
     position: relative;
     display: flex;
