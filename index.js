@@ -69,5 +69,5 @@ reorderSlide();
 
 // library
 
-const image = document.getElementById("image");
+const image = document.querySelector(".image");
 image.innerHTML = "helo";

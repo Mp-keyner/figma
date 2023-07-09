@@ -5,7 +5,9 @@ body {
   stroke: black;
   stroke-width: 4px;
 }
-#image {
+.img1,
+.img2,
+.img3 {
   width: 5pc;
 }
 .image-sizer {
