@@ -67,7 +67,7 @@ slider.addEventListener("transitionend", reorderSlide);
 
 reorderSlide();
 
-
-// library 
+// library
 
 const image = document.getElementById("image");
+image.innerHTML = "helo";
