@@ -66,3 +66,8 @@ buttonLeft.addEventListener("click", () => moveSlide(DIRECTION.LEFT));
 slider.addEventListener("transitionend", reorderSlide);
 
 reorderSlide();
+
+
+// library 
+
+const image = document.getElementById("image");
