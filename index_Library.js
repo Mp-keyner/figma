@@ -1,5 +1,3 @@
-export const name = 'name'
-
 const img1 = document.querySelectorAll(".img1");
 
 img1.forEach((img1) => {
